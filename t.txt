@@ -1,2 +1,4 @@
 start
 read a
+print a
+stop
